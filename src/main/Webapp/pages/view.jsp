@@ -18,6 +18,7 @@
 			<td align="center" valign="middle"><input type="button" value="Delete" onclick="location.href='/delete/${s.id}'"></td>
 	 	</form>
 	</tr>
+	
   </c:forEach>
 </table>
 </body>
